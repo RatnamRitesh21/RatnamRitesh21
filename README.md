@@ -27,7 +27,7 @@
 
 ## About Me 👋
 - 🎓 MS in Computer Science at **University of Central Florida** (GPA **3.97**)  
-- 💻 **2+ years** Software Engineer at **Accenture** (enterprise systems supporting Microsoft)  
+- 💻 **2+ years** as a Software Engineer at **Accenture**   
 - 🤖 Exploring **agentic AI** — multi-agent workflows, tool calling, and evaluation with prompt test sets  
 - 🌲 Ask me about: **national parks/hikes**, **F1**, **esports**, and **PC games**  
 
@@ -68,13 +68,13 @@
 - Two-sided dashboards (admin + user), QR/link distribution, scheduled open/close windows  
 - Reduced submission latency by **30%** via backend request handling + API design improvements  
 **Tech:** React, Vite, Java, Spring Boot, MongoDB, JWT  
-🔗 Repo/Demo: (add link)
+
 
 ### 🛒 BrewBasket — Ordering & Inventory System
 - Search/filter/sort + pagination, cart/checkout, order history  
 - JWT-based admin/customer flows and server-side checks for inventory consistency  
 **Tech:** React, Node.js, Express, SQL, JWT  
-🔗 Repo/Demo: (add link)
+
 
 ---
 
@@ -82,4 +82,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RatnamRitesh21&show_icons=true&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatnamRitesh21&layout=compact&hide_border=true" height="160" />
-</p>
+</p
+
+
+🎯 *Let’s connect and build amazing things together!* 🚀
