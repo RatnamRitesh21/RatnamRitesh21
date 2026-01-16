@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=720&height=70&duration=3500&lines=Hi+there!+👋;I'm+Ritesh+Goud+Ratnam;Full-Stack+%7C+Frontend+%7C+AI%2FML;MS+CS+%40+UCF+%7C+Ex-Accenture" />
 </h1>
 
-<p align="center">
-  <b>Full-Stack • Frontend • AI/ML</b> — MS CS @ UCF (GPA 3.97) — Ex-Accenture (Microsoft support)
-</p>
+<h3 align="center" style="color: red;">🚀 Exploring Opportunities in AI/Software Engineering <picture><img src = "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width = 40px></picture></h3>
 
 <div align="center">
   <a href="mailto:rriteshgoud21@gmail.com">
@@ -47,7 +45,6 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="36" alt="JavaScript" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="36" alt="TypeScript" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="36" alt="React" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angular-colored.svg" width="40" height="36" alt="Angular" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="36" alt="Node.js" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="36" alt="MongoDB" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="36" alt="MySQL" />
@@ -77,12 +74,6 @@
 
 
 ---
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RatnamRitesh21&show_icons=true&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatnamRitesh21&layout=compact&hide_border=true" height="160" />
-</p
 
 
 🎯 *Let’s connect and build amazing things together!* 🚀
